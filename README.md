@@ -186,7 +186,7 @@
 - **Assumption**: High-resolution diagnostics are critical for initial identification of severe health conditions
 - and functional pathways.  
 - Shotgun Metagenomic Sequencing was recommended for deep diagnostic insights.  
-- **Assumption**: Ongoing condition monitoring is essential for long-term management but must be cost-effective.  
+- Ongoing condition monitoring is essential for long-term management but must be cost-effective (but not considered here).  
 - 16S rRNA Sequencing was suggested as a complementary method for routine follow-ups.  
 
 **Shotgun Metagenomic Sequencing**  
